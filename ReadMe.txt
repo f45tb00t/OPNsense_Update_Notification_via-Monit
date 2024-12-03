@@ -34,3 +34,16 @@ Description: $DESCRIPTION
 
 General Settings:
 - configure your outgoing mail...
+
+
+Check Status...
+
+Output will be like:
+Program 'OPNsense_Update_Check'
+  status                       OK
+  monitoring status            Waiting
+  monitoring mode              active
+  on reboot                    start
+  last exit value              0
+  last output                  NO_UPDATE: Current version: OPNsense 24.7.9_1 (amd64)
+  data collected               Mon, 02 Dec 2024 01:01:50
